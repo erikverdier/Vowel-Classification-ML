@@ -19,7 +19,8 @@ The notebook includes:
 * MFCC feature extraction
 * Frame-level vowel labelling
 * KNN classification
-* * Accuracy evaluation * Results visualization
+* Accuracy evaluation
+* Results visualization
 
 ## Requirements
 
