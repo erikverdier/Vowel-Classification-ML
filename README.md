@@ -4,7 +4,7 @@ A Python project for vowel classification using Mel-Frequency Cepstral Coefficie
 
 ## About
 
-This project is an adapted version of a laboratory assignment from the **PSPM (Processing Speech and Music)** course. The original lab has been reorganized into a standalone machine learning project with improved documentation and result visualization.
+This project is an adapted version of a laboratory assignment from the **PSPM (Processament de So, Parla i Música)** course. The original lab has been reorganized into a standalone machine learning project with improved documentation and result visualization.
 
 ## Contents
 
